@@ -122,6 +122,10 @@ Your CSV file should have the following structure:
 
 If you use this pipeline in your research, please cite:
 
-```
-[Citation information to be added]
-```
+@misc{nushin-2026,
+	author = {Nubila Nushin, Kazi and Jannat Prity, Afrina},
+	month = {9},
+	title = {{LLM responses}},
+	year = {2026},
+	url = {https://github.com/DLIBYH/LLM_Comparison/blob/main/All%20Response.zip},
+}
