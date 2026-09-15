@@ -111,14 +111,6 @@ Your CSV file should have the following structure:
 | Human Doctor Response | Yes | Reference response from medical professional |
 | [LLM_Name] | At least 2 | Responses from LLMs to evaluate |
 
-## ⚠️ Limitations
-
-1. **Not Clinically Validated**: This is an automated rubric, not a substitute for clinician review
-2. **Corpus-Assisted Expansion**: Semantic expansion is exploratory and requires expert validation
-3. **Dataset Scale**: Current collection (209 questions) limits generalization
-4. **No Independent Validation**: Correlations with clinician ratings pending
-5. **Length Effects**: Explanation dimension includes length component (controlled for in analysis)
-
 ## 🔬 Planned Extensions
 
 - [ ] External clinician review of expanded term lists and automated scores
